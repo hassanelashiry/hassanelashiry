@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @hassanelashiry
 - 👀 I’m interested in ... WEB3 development, Blockchain technology, and the newest technologies 
 - 🌱 I’m currently learning ... Solidity 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on ... -_-
+- 📫 How to reach me ... engelashiry@gmail.com
+- 😄 Pronouns: ... elashiry
+- ⚡ Fun fact: ... ^_^
 
 <!---
 hassanelashiry/hassanelashiry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
