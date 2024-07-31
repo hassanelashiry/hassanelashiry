@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hassanelashiry
+- 👋 Hi, I’m @hassanelashiry  |  Mechatronics engineer  |  Blockchain developer
 - 👀 I’m interested in ... WEB3 development, Blockchain technology, and the newest technologies 
 - 🌱 I’m currently learning ... Solidity 
 - 💞️ I’m looking to collaborate on ... -_-
